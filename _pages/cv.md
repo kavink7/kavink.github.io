@@ -15,27 +15,27 @@ Education
 
 Work experience
 ======
-* #July 2024-present: Major Project Team Leader
+* **July 2024-present: Major Project Team Leader**
   * National Institute of Technology Karnataka, Surathkal
   * Spearheading a team of 5 under the guidance of Dr. Ranjith Maniyeri to perform data-driven solutions of Navier-Stokes equations (and other physical problems) using physics-informed neural networks (developed from scratch with no off-the-shelf libraries for ML).
 
-* #May 2024-present: Summer Research Intern
+* **May 2024-present: Summer Research Intern**
   * Indian Institute of Technology Kanpur, Kanpur (SURGE 2024)
   * Working under the guidance of Dr. Arun K Saha on the topic of mixed convective flows past square cylinders at incidence.
   * Uncovered novel transition dynamics which have never been discussed earlier.
 
-* #October 2023-April 2024: Research Assistant
+* **October 2023-April 2024: Research Assistant**
   * National Institute of Technology Karnataka, Surathkal
   * Worked under the guidance of Dr. Ranjith Maniyeri in building CFD code for a variety of different physical problems from scratch using finite-volume method.
   * Developed codes for - 1D unsteady diffusion, 2D steady conduction (with and without heat source), 2D convection-diffusion, 2D unsteady Navier-Stokes (full).
   * Extended the Navier-Stokes solver to electrohydrodynamic (EHD) flows and presented results at the International Conference on Fluid, Thermal and Energy Systems (ICFTES 2024) held at National Institute of Technology Calicut, in the month of June 2024.
 
-* #June 2023-August 2023: Summer Research Fellow (IAS-SRFP 2023)
+* **June 2023-August 2023: Summer Research Fellow (IAS-SRFP 2023)**
   * Indian Institute of Technology Kanpur, Kanpur
   * Worked under the guidance of Dr. Arun K Saha to modify a 2D CFD in-house code built for square cylinders to solve flow past square cylinders at an angle of incidence and isosceles triangular cylinder by using interpolation techniques to enforce boundary conditions.
   * Obtained the critical Reynolds number for isosceles triangular cylinder and square cylinder at incidence.
  
-* #October 2022-June 2023: Research Assistant
+* **October 2022-June 2023: Research Assistant**
   * National Institute of Technology Karnataka, Surathkal
   * Worked under the guidance of Dr. N Gnanasekaran
   * Analyzed heat transfer enhancement in forced convective heat transfer using metal foams and wire meshes using ANSYS Fluent.
