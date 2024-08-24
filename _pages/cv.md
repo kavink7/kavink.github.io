@@ -44,7 +44,7 @@ Work experience
   
 Coursework
 ======
-* **Fluid-Thermal Sciences** - Fluid Mechanics and Machinery, Basic Engineering Thermodynamics, Applied Thermodynamics, Heat Transfer, Energy Engineering, Advanced Fluid Mechanics (graduate), Design of Renewable Energy Systems (graduate), Gas Turbines and Jet Propulsion (ongoing), Microfluidics (ongoing)
+* **Fluid-Thermal Sciences** - Fluid Mechanics and Machinery, Basic Engineering Thermodynamics, Applied Thermodynamics, Heat Transfer, Energy Engineering, Advanced Fluid Mechanics (graduate), Design of Renewable Energy Systems (graduate), Gas Turbines and Jet Propulsion (ongoing), Microfluidics (ongoing), Refrigeration Systems (graduate, ongoing), Heat and Mass Transfer (graduate, ongoing)
 * **Applied Mechanics and Design** - Mechanics of Deformable Bodies, Mechanics of Machinery, Analysis and Design of Machine Components, Design of Mechanical Drives, Machine Dynamics and Vibrations
 * **Manufacturing** - Materials Science and Engineering, Basic Manufacturing Processes, Manufacturing Technology, Metrology and Instrumention, Introduction to Additive Manufacturing (ongoing)
 * **Mathematics** - Engineering Mathematics-I, Engineering Mathematics-II, Numerical Methods, Probability Theory and its Applications
