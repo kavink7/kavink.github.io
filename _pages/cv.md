@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Mechanical Engineering, National Institute of Technology Karnataka, Surathkal (2025, expected)
+* B.Tech. (Honors) in Mechanical Engineering, National Institute of Technology Karnataka, Surathkal (2025, expected)
+* Honors degree in Thermal Engineering, National Institute of Technology, Karnataka, Surathkal (2025, expected)
 
 Work experience
 ======
@@ -41,14 +42,13 @@ Work experience
   * Analyzed heat transfer enhancement in forced convective heat transfer using metal foams and wire meshes using ANSYS Fluent.
   * Presented results at the International Conference on Recent Advances in Modelling and Analysis of Thermal Energy Systems (RAMATES 2023) held at National Institute of Technology Karnataka, Surathkal in the month of May 2023. 
   
-Skills
+Coursework
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fluid-Thermal Sciences - Fluid Mechanics and Machinery, Basic Engineering Thermodynamics, Applied Thermodynamics, Heat Transfer, Energy Engineering, Advanced Fluid Mechanics (graduate), Design of Renewable Energy Systems (graduate), Gas Turbines and Jet Propulsion (ongoing), Microfluidics (ongoing)
+* Applied Mechanics and Design - Mechanics of Deformable Bodies, Mechanics of Machinery, Analysis and Design of Machine Components, Design of Mechanical Drives, Machine Dynamics and Vibrations
+* Manufacturing - Materials Science and Engineering, Basic Manufacturing Processes, Manufacturing Technology, Metrology and Instrumention, Introduction to Additive Manufacturing (ongoing)
+* Mathematics - Engineering Mathematics-I, Engineering Mathematics-II, Numerical Methods, Probability Theory and its Applications
+
 
 Publications
 ======
