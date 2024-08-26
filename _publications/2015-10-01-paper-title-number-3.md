@@ -1,7 +1,7 @@
 ---
 title: "Computational Modelling of Electrohydrodynamic Flow in a Channel"
 collection: conferences
-category: manuscripts
+category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'In the present work, electrohydrodynamic
 (EHD) flow in a channel has been analyzed using
